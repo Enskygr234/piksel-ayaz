@@ -7,6 +7,12 @@
 
 </div>
 
+<!-- ENS:TANITIM -->
+## 📸 Ekran görüntüsü
+
+<img src="docs/ekran.png" width="100%" alt="Piksel Ayaz ekran görüntüsü">
+<!-- /ENS:TANITIM -->
+
 Tarayıcıda piksel sanatı çiz, PNG olarak indir. Kurulum yok, hesap yok.
 
 **[→ Çizmeye başla](https://enskygr234.github.io/piksel-ayaz/)** — ilk kez açınca **✨ Örnek**'e bas, bir kardan adam belirsin.
@@ -32,3 +38,19 @@ Tarayıcıda piksel sanatı çiz, PNG olarak indir. Kurulum yok, hesap yok.
 ## Lisans
 
 [MIT](LICENSE) © Winterdeveloper
+
+<!-- ENS:ALT -->
+---
+
+<div align="center">
+
+**❄️ ENS Developer'ın diğer projeleri**
+
+🌐 Web: [Wintercle](https://github.com/Enskygr234/wintercle) · [Buz Şifre](https://github.com/Enskygr234/buz-sifre) · [Kar Tanesi](https://github.com/Enskygr234/kar-tanesi) · [Nardugan](https://github.com/Enskygr234/nardugan) · [kar.js](https://github.com/Enskygr234/kar-js)
+
+[🌐 Bütün projeler](https://enskygr234.github.io/ensdewloper.github.io/) · [👤 GitHub profilim](https://github.com/Enskygr234)
+
+<sub>Kış gelir, kod yazılır.</sub>
+
+</div>
+<!-- /ENS:ALT -->
